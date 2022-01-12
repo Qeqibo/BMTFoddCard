@@ -1,0 +1,82 @@
+﻿
+<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FoodCard.Controllers.CardController">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAIABAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\CardController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FoodCard.Controllers.HomeController">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAIAAAAQAAAAEAAAAAAAI=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FoodCard.Controllers.UserController">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAIAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\UserController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FoodCard.DB.FoodCardContext">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAQAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB\FoodCardContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FoodCard.Migrations.InitialCreate">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20210816112859_InitialCreate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FoodCard.Migrations.FoodCardContextModelSnapshot">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Migrations\FoodCardContextModelSnapshot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FoodCard.Models.CardModel">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAAAAAAAAAAAAAAgAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CardModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FoodCard.Models.ErrorViewModel">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ErrorViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FoodCard.Models.UserModel">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABCAAAAAAAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\UserModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FoodCard.ViewsModel.CardViewModel">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewsModel\CardViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FoodCard.ViewsModel.UserViewModel">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewsModel\UserViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
